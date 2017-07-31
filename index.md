@@ -11,3 +11,5 @@ Ella no hace nada y no quiere una carrera vive para louis button y para carolina
 Son lo que son son personas ordinarias.
 
 Ellos fuman, son machistas, ellas lloran en el cine, ellos tratan como un juego, ellas no lo impiden, ellos son arrogantes buscan barbies y placeres, ellas buscan ken residenciales y mercedes, ellos pocos saben su cerebro es wikipedia, ellas siempre viven en un grave y una comedia, ellos son lo que son por papá y por mamá, ellas son lo que son por la maldita sociedad.
+
+Autor: Hache.
