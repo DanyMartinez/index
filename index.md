@@ -2,9 +2,8 @@
 layout: default
 ---
 # [](#header-1)Galería [2]
-
-<p>Nene y Nena</p>
 <br>
+<p>Nene y Nena</p>
 <div class="container">
   <header>
    <div>
