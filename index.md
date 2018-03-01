@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# [](#header-1)Galería [2]
 <br>
 <p>Sin título</p>
 <div class="container">
