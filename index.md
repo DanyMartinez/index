@@ -1,15 +1,11 @@
----
-layout: default
----
 <br>
 <p>Sin título</p>
 <div class="container">
   <header>
-	  Por el momento no hay nada..
+	 [Inserte aquí algo..]
 	</header>
    <div>
  
-   </a>
 </div>
 
 
