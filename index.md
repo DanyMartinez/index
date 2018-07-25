@@ -6,7 +6,7 @@
 	  <p>
 No sabía que llegaría tan pronto el día que tendría que decirte que mi vida no fue cómo yo quería, vivir eternamente acobijado entre tus brazos y ser testigo fiel contando cada uno de tus pasos, yo debía extrañar tus risas, llorar en mar abierto mientras derramaba tus cenizas, volverme loco por tu ausencia, tratar de rescatar lo que se fue con tu "inocencia". Pedir clemencia sentirme tan culpable por perderte pero quién puede contra la maldita muerte hoy me toca despedirme y desde algún lugar decirte que eres libre de olvidar y volverte enamorar, decorar tu corazón solo con mis recuerdos qué importa que haya muerto serás feliz amor no abrá dolor por la maldita muerte pero mujer amada, deja que te cuente.
 
-</header>
-   <div>
+ </header>
+ <div>
  
 
