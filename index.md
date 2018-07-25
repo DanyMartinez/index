@@ -9,6 +9,4 @@ No sabía que llegaría tan pronto el día que tendría que decirte que mi vida 
 </header>
    <div>
  
-</div>
-
 
