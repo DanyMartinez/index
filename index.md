@@ -1,5 +1,3 @@
-<br>
-<p>Sin Título..</p>
 <div class="container">
   <header>
 	  Tan delicada como siempre esa mirada que no miente, ansiosa e impaciente de mente abierta supe a tu lado cómo mantenerme alerta, feliz con un abrazo y escucharte, feliz de fusionarme con tu cuerpo sin tocarte. El mundo era perfecto con tan solo amarte y poder besarte con la yema de mis dedos acariciando mi vereda con zapatos nuevos, refugiándome en tus miedos volamos juntos a otro cielo uno desconocido, estar enamorado jamás había sido tan nocivo pero contigo todo tenía sentido contigo era sencillo soportar el frío, recorrer cada rincón y derramar pasión conocer nuestro pasado y no debernos una sola explicación cerrar los ojos de mente en mente mujer amada deja que te cuente. 
