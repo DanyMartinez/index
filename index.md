@@ -2,11 +2,12 @@
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 <!------ Include the above in your HEAD tag ---------->
 
         <div class="row">
         <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <h1 class="gallery-title">Galería de momentos entre ella y yo</h1>
+            <h1 class="gallery-title">Galería de momentos entre ella y yo <i class="fas fa-heart"></i></h1>
         </div>
         <br/>
             <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
