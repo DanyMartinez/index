@@ -6,7 +6,7 @@
  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
         <div class="row">
         <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <h1 class="gallery-title">Galería de momentos, Adri y yo. <3 <i class="fas fa-heart"></i> <span class="glyphicon glyphicon-heart"></span></h1>
+            <h1 class="gallery-title">Galería de momentos, Adri y yo <span class="glyphicon glyphicon-heart"></span></h1>
         </div>
         <br/>
             <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
