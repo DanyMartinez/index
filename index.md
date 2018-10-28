@@ -6,6 +6,10 @@
  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
         <div class="row">
          <p class="h2">Programador semi senior, con mucho gusto por la lectura, el arte, la cultura, los sitios de intereses teóricos e intelectuales, gaming of Pokemon, luchador social (a veces), disfruto mucho de la vida, viajar un poco, conocer el mundo, sembrar un árbol, escribir un libro y acostarse a dormir.</p>
+         <blockquote class="blockquote">
+  <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+  <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+</blockquote>
         <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <h1 class="gallery-title">Galería de momentos, Adri y yo <span class="glyphicon glyphicon-heart"></span></h1>
         </div>
