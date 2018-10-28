@@ -10,7 +10,7 @@
         </div>
         <br/>
             <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
-                <img src="1.PNG" class="img-responsive">
+                <img src="11.PNG" class="img-responsive">
             </div>
 
             <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
@@ -20,13 +20,13 @@
                 <img src="3.PNG" class="img-responsive">
             </div>
              <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
-                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+                <img src="4.PNG" class="img-responsive">
             </div>
               <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
-                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+                <img src="5.PNG" class="img-responsive">
             </div>
               <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
-                <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+                <img src="6.PNG" class="img-responsive">
             </div>
             
         </div>
