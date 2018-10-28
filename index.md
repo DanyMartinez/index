@@ -5,7 +5,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
         <div class="row">
-         <p>Programador semi senior, con mucho gusto por la lectura, el arte, la cultura, los sitios de intereses teóricos e intelectuales, gaming of Pokemon, luchador social (a veces), disfruto mucho de la vida, viajar un poco, conocer el mundo, sembrar un árbol, escribir un libro y acostarse a dormir.</p>
+         <p class="h2">Programador semi senior, con mucho gusto por la lectura, el arte, la cultura, los sitios de intereses teóricos e intelectuales, gaming of Pokemon, luchador social (a veces), disfruto mucho de la vida, viajar un poco, conocer el mundo, sembrar un árbol, escribir un libro y acostarse a dormir.</p>
         <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <h1 class="gallery-title">Galería de momentos, Adri y yo <span class="glyphicon glyphicon-heart"></span></h1>
         </div>
