@@ -6,7 +6,7 @@
  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
         <div class="row">
          <blockquote class="blockquote">
-  <p class="mb-0">Programador semi senior, con mucho gusto por la lectura, el arte, la cultura, los sitios de intereses teóricos e intelectuales, gaming of Pokemon, luchador social (a veces), disfruto mucho de la vida, viajar un poco, conocer el mundo, sembrar un árbol, escribir un libro y acostarse a dormir.</p>
+  <p class="mb-0">Programador Senior, con mucho gusto por la lectura, el arte, la cultura, los sitios de intereses teóricos e intelectuales, gaming of Pokemon, luchador social (a veces), disfruto mucho de la vida, viajar un poco, conocer el mundo, sembrar un árbol, escribir un libro y acostarse a dormir.</p>
   <footer class="blockquote-footer">Esta frase casi me da un oscar.</footer>
 </blockquote>
 </section>
